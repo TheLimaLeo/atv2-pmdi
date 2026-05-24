@@ -12,7 +12,7 @@ import {
   SafeAreaView 
 } from 'react-native';
 import axios from 'axios';
-import { DDDResponse } from '../types'; 
+import { DDDResponse } from './types'; 
 
 export default function App() {
   // Estados da aplicação
